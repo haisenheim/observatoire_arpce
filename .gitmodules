@@ -1,6 +1,6 @@
 [submodule "administration"]
 	path = administration
-	url = ./administration
+	url = https://github.com/haisenheim/observatoire_arpce_administration.git
 [submodule "site_web"]
 	path = site_web
-	url = ./site_web
+	url = https://github.com/haisenheim/observatoire_arpce_site_web.git
