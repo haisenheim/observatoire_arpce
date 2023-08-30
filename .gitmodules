@@ -1,0 +1,6 @@
+[submodule "administration"]
+	path = administration
+	url = ./administration
+[submodule "site_web"]
+	path = site_web
+	url = ./site_web
